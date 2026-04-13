@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+}
+.header {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+  padding: 30px;
+  background-color: #4e4d4d;
+  color: white;
+  border-radius: 40px;
+}
+
+.menu ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  margin-left: 50px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: 0.4s;
+}
+
+.menu a:hover {
+  color: rgb(104, 102, 102);
+}
+
+ div{
+    font-size: large;
+ }
+
+ .imagemmeio{
+    width: 100px;
+    height: 100px;
+ }
