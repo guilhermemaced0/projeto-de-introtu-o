@@ -1,0 +1,8 @@
+body {
+    background-color: gray;
+}
+li {
+    list-style: none;
+    margin-bottom: 40px;
+    font-size: large;
+}
